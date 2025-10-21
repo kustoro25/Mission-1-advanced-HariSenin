@@ -48,7 +48,3 @@ DELETE /courses/:id - Menghapus course
 Fallback System
 Jika API external tidak tersedia, aplikasi akan menggunakan service lokal dengan data fallback.
 
-Typography
-Poppins - Untuk headings
-
-DM Sans - Untuk body text
