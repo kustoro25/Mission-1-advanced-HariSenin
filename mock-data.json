@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Big 4 Auditor Financial Analyst",
+      "description": "Mulai transformasi dengan instruktur profesional, harga yang terjangkau, dan materi yang komprehensif untuk menjadi financial analyst handal.",
+      "instructor": {
+        "name": "Jenna Ortega",
+        "position": "Senior Accountant",
+        "avatar": "https://via.placeholder.com/150/0000FF/808080?text=Instructor"
+      },
+      "image": "https://via.placeholder.com/400x200/3ECF4C/FFFFFF?text=Finance+Course",
+      "price": 300000,
+      "rating": 3.5,
+      "reviewCount": 86,
+      "category": "Bisnis",
+      "createdAt": "2024-01-15T10:30:00Z"
+    }
+  ]
+}

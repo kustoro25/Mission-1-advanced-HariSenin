@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Poppins:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+@theme {
+  /* Main Colors */
+  --color-main-primary: #3ecf4c;
+  --color-main-secondary: #ffbd3a;
+  --color-main-tertiary: #f64920;
+
+  /* Text (Dark) */
+  --color-text-dark-primary: #222325;
+  --color-text-dark-secondary: #333333ad;
+  --color-text-dark-tertiary: #3a354161;
+
+  /* Text (Light) */
+  --color-text-light-primary: #ffffff;
+  --color-text-light-secondary: #c1c2c4;
+  --color-text-light-tertiary: #f4f5fa;
+
+  /* Other */
+  --color-other-primary: #ffffff;
+  --color-other-secondary: #f9fafc;
+  --color-other-tertiary: #3a35411f;
+  --border-custom: #3a35411f;
+  /* Info */
+  --color-info-primary: #f4f5fa;
+  --color-info-secondary: #0663c2;
+  --color-info-tertiary: #0980e2;
+  --color-info-quaternary: #ebf9fe;
+
+  /* Success */
+  --color-success-primary: #1c9675;
+  --color-success-secondary: #28b380;
+  --color-success-tertiary: #38d189;
+  --color-success-quaternary: #e0fddf;
+
+  /* Warning */
+  --color-warning-primary: #b5a40d;
+  --color-warning-secondary: #d8c613;
+  --color-warning-tertiary: #fce91b;
+  --color-warning-quaternary: #fcf8ca;
+
+  /* Error */
+  --color-error-primary: #b72315;
+  --color-error-secondary: #db3d1f;
+  --color-error-tertiary: #ff5c2b;
+  --color-error-quaternary: #fce3d1;
+
+  /* Grayscale */
+  --color-grayscale-900: #212121;
+  --color-grayscale-800: #424242;
+  --color-grayscale-700: #616161;
+  --color-grayscale-600: #757575;
+  --color-grayscale-500: #9e9e9e;
+  --color-grayscale-400: #bdbdbd;
+  --color-grayscale-300: #e0e0e0;
+  --color-grayscale-200: #eeeeee;
+  --color-grayscale-100: #f5f5f5;
+  --color-grayscale-50: #fafafa;
+
+  /* Font Family */
+  --font-poppins: "Poppins", "sans-serif";
+  --font-DM-sans: "DM Sans", "sans-serif";
+}
